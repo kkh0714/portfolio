@@ -243,6 +243,7 @@
     background-color: #000;
     display: block;
     max-width: 15rem;
+    white-space: nowrap;
 }
 
 .resume-link {
