@@ -121,6 +121,7 @@
 .eachpage-h2 {
     font-size: 2rem;
     margin: 1rem 0;
+    text-decoration: underline;
 }
 
 .profile-p {
@@ -167,7 +168,6 @@
 
 .resume-h3 {
     margin: 0.5rem 0;
-    text-decoration: underline;
     background-color: #000;
 }
 
@@ -177,6 +177,14 @@
 }
 
 .resume-time {
+    font-style: italic;
+}
+
+.resume-time-normal {
+    font-style: normal;
+}
+
+.resume-tech {
     font-style: italic;
 }
 
